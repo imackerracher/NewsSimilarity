@@ -50,3 +50,5 @@ In order for NewsSimilarity to work, some meta information annotations are also 
   
 # Comparing results
 The results are exported to a csv file in /data/Similarity where they can be examined.
+
+

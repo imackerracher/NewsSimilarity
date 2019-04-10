@@ -1,0 +1,6 @@
+OUTLET,abc,BBC News,The New York Times Company,Reuters,Times of India
+abc,True,False,False,False,False
+BBC News,False,False,False,False,False
+The New York Times Company,False,False,False,False,False
+Reuters,False,False,False,True,False
+Times of India,False,False,False,False,False

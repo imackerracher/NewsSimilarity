@@ -1,0 +1,8 @@
+.idea
+newssimilarity/__pycache__/
+newssimilarity/model/__pycache__/
+newssimilarity/model/feature_instances/__pycache__/
+newssimilarity/model/features/__pycache__/
+newssimilarity/segment_sim/__pycache__/
+newssimilarity/utils/__pycache__/
+NewsSimilarityIan.iml
